@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/Vectores_Funciones2/cmake-build-debug/CMakeFiles/Vectores_Funciones2.dir
+C:/Users/ALDAS/CLionProjects/Vectores_Funciones2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/Vectores_Funciones2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
